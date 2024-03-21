@@ -28,5 +28,13 @@
 > - варианты предварительной обработки текста перед токенизацией (комбинации признаков)
  
 > 2.	Обучала кастомные модели с различными параметрами над трансформерами Berta (Roberta, Deberta base, small, large) для выбора лучших
-> 3.	Обучила мета модель LightGBM над предсказаниями Bertav3Base, Bertav3Large и кастомными фичами с подборанными с помощью Optuna гипепараметрами 
+> 3.	Обучила мета модель LightGBM над предсказаниями Bertav3Base, Bertav3Large и кастомными фичами с подборанными с помощью Optuna гипепараметрами
+
+## 4. Ссылки
+
+> 1.	https://www.kaggle.com/code/bulivington/transformers-predictions-base
+2.	https://www.kaggle.com/code/asteyagaur/commonlit-deberta-v3
+3.	https://www.kaggle.com/code/tsunotsuno/updated-debertav3-lgbm-with-spell-autocorrect
+
+
 
