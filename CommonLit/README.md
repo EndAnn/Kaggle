@@ -32,9 +32,9 @@
 
 ## 4. Ссылки
 
-> 1.	https://www.kaggle.com/code/bulivington/transformers-predictions-base
-2.	https://www.kaggle.com/code/asteyagaur/commonlit-deberta-v3
-3.	https://www.kaggle.com/code/tsunotsuno/updated-debertav3-lgbm-with-spell-autocorrect
+1.	[https://www.kaggle.com/code/bulivington/transformers-predictions-base](https://www.kaggle.com/code/bulivington/transformers-predictions-base)
+2.	[https://www.kaggle.com/code/asteyagaur/commonlit-deberta-v3](https://www.kaggle.com/code/asteyagaur/commonlit-deberta-v3)
+3.	[https://www.kaggle.com/code/tsunotsuno/updated-debertav3-lgbm-with-spell-autocorrect](https://www.kaggle.com/code/tsunotsuno/updated-debertav3-lgbm-with-spell-autocorrect)
 
 
 
