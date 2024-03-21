@@ -1,4 +1,4 @@
-## [CommonLit - Evaluate Student Summaries]
+## CommonLit - Evaluate Student Summaries
 ##### Это решение (заняло 600е место из 2100) соревнования от образовательной организации Commonlit: https://kaggle.com/competitions/commonlit-evaluate-student-summaries/overview
 
 ## 1. [Цель](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries/overview)
