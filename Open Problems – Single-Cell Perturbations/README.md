@@ -51,6 +51,6 @@ subsample = 1, colsample = 0.35, lr = 0.01
 5.	Блендинг итоговых моделей
 
 ## Ссылки
-(https://www.kaggle.com/code/alexandervc/pyboost-secret-grandmaster-s-tool)[https://www.kaggle.com/code/alexandervc/pyboost-secret-grandmaster-s-tool]
+[https://www.kaggle.com/code/alexandervc/pyboost-secret-grandmaster-s-tool](https://www.kaggle.com/code/alexandervc/pyboost-secret-grandmaster-s-tool)
 
-(https://www.kaggle.com/code/asimandia/kfold-simple-nn-refactored)[https://www.kaggle.com/code/asimandia/kfold-simple-nn-refactored]
+[https://www.kaggle.com/code/asimandia/kfold-simple-nn-refactored](https://www.kaggle.com/code/asimandia/kfold-simple-nn-refactored)
