@@ -1,9 +1,8 @@
 ## Open Problems – Single-Cell Perturbations
 ##### Это решение (заняло 43е место из 1098, серебряная медаль) соревнования: https://www.kaggle.com/competitions/open-problems-single-cell-perturbations
 
-## 1. [Формализация проекта](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview)
-> Цель:
-моделировать, как малые молекулы лекарств изменяют дифференциальную экспрессию генов (differential expression (DE)), в различных типах клеток. Модель должна оценивать влияние экспериментального возмущения (chemical perturbations) лекарств на клетки, и, соответственно, уровень экспрессии каждого из 18211 генов в транскрипции.
+## 1. Формализация [проекта] (https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview)
+> Цель: моделировать, как малые молекулы лекарств изменяют дифференциальную экспрессию генов (differential expression (DE)), в различных типах клеток. Модель должна оценивать влияние экспериментального возмущения (chemical perturbations) лекарств на клетки, и, соответственно, уровень экспрессии каждого из 18211 генов в транскрипции.
 
 ## 2.	Основные действия
 
