@@ -1,4 +1,4 @@
-## CommonLit - Evaluate Student Summaries
+## Open Problems – Single-Cell Perturbations
 ##### Это решение (заняло 43е место из 1098, серебряная медаль) соревнования: https://www.kaggle.com/competitions/open-problems-single-cell-perturbations
 
 ## 1. [Цель](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview)
