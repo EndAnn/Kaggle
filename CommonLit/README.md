@@ -1,5 +1,5 @@
 ## CommonLit - Evaluate Student Summaries
-##### Это решение (заняло 600е место из 2100) соревнования от образовательной организации Commonlit: https://kaggle.com/competitions/commonlit-evaluate-student-summaries/overview
+##### Решение (600е место из 2100) соревнования от образовательной организации Commonlit: https://kaggle.com/competitions/commonlit-evaluate-student-summaries/overview
 
 ## 1. [Цель](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries/overview)
 > Оценить качество пересказов (summaries), написанных учащимися. Задача соревнования состоит в том, чтобы построить модель, позволяющую оценить, насколько хорошо учащиеся объясняют основную идею и детали исходного текста, а также ясность (clarity), точность(precision) и беглость(fluency) языка.  
