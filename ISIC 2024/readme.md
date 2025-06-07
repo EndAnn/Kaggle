@@ -1,10 +1,5 @@
 # ISIC 2024 - Skin Cancer Detection with 3D-TBP
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue.svg)](https://www.kaggle.com/competitions/isic-2024-challenge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 **Language**: [🇺🇸 English](#english) | [🇷🇺 Русский](#русский)
 
 ---
