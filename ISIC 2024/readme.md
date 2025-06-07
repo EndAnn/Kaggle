@@ -110,9 +110,9 @@ Executes probability predictions recorded in `target_3` feature using pre-traine
 
 5. **Higher quality through averaging, more stable predictions**
 
-#### 3. main.ipynb and isic_pytorch_training_baseline_image_only.ipynb
+#### 3. isic-script-inference-effnetv1b0-f313ae.ipynb and isic_pytorch_training_baseline_image_only.ipynb
 
-`main.ipynb` executes probability predictions recorded in `target_effnetv1b0` feature (training code - `isic_pytorch_training_baseline_image_only.ipynb`).
+`isic-script-inference-effnetv1b0-f313ae.ipynb` executes probability predictions recorded in `target_effnetv1b0` feature (training code - `isic_pytorch_training_baseline_image_only.ipynb`).
 
 Model optimized for low-quality medical images (simulating smartphone captures) targeting AUROC metric maximization for reliable malignant lesion classification.
 
@@ -232,9 +232,9 @@ In the modified EfficientNet architecture (`ISICModel` class), the standard mult
 
 5. **Выше качество за счет усреднения, более стабильные предсказания**
 
-#### 3. main.ipynb и isic_pytorch_training_baseline_image_only.ipynb
+#### 3. isic-script-inference-effnetv1b0-f313ae.ipynb и isic_pytorch_training_baseline_image_only.ipynb
 
-`main.ipynb` выполняет предсказания вероятностей, записанных в фичу `target_effnetv1b0` (код обучения - `isic_pytorch_training_baseline_image_only.ipynb`).
+`isic-script-inference-effnetv1b0-f313ae.ipynb` выполняет предсказания вероятностей, записанных в фичу `target_effnetv1b0` (код обучения - `isic_pytorch_training_baseline_image_only.ipynb`).
 
 Модель оптимизирована для работы с медицинскими изображениями низкого качества (симулирующими снимки со смартфона) и нацелена на максимизацию AUROC метрики для надежной классификации злокачественных поражений кожи.
 
