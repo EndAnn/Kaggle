@@ -90,7 +90,7 @@ Adds **13 new medically significant features** to the original set.
 - **Log-scale sampling**: for regularization parameters (avoids local minima)
 - **Class balancing**: automatic weight selection for class imbalance
 
-#### 2. pl_submission_(efficientnet_b0).ipynb
+#### 2. isic-2024-pl-submission-script-and-preds1.ipynb
 
 Executes probability predictions recorded in `target_3` feature using pre-trained model ensemble.
 
@@ -212,7 +212,7 @@ In the modified EfficientNet architecture (`ISICModel` class), the standard mult
 - **Log-scale sampling**: для параметров регуляризации (избегает локальных минимумов)
 - **Class balancing**: автоматический подбор весов для дисбаланса классов
 
-#### 2. pl_submission_(efficientnet_b0).ipynb
+#### 2. isic-2024-pl-submission-script-and-preds1.ipynb
 
 Выполняет предсказания вероятностей, записанных в фичу `target_3`, используя ансамбль предобученных моделей.
 
